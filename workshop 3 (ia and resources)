@@ -1,100 +1,99 @@
 ### fiche 1
-**Titre de la source**
+##Titre de la source
 
 Cybersecurity, Privacy, and AI
 
-**Type de source**
+##Type de source
 
 Source institutionnelle
 
-**Auteur ou organisme et date**
+##Auteur ou organisme et date
 
 National Institute of Standards and Technology (NIST), page mise à jour le 26 octobre 2026.
 
-**Lien de la source**
+##Lien de la source
 
 https://www.nist.gov/itl/applied-cybersecurity/cybersecurity-privacy-and-ai
 
-**Idée principale**
+##Idée principale
 
 L’intelligence artificielle représente à la fois une opportunité et un risque pour la cybersécurité. Elle peut améliorer la détection des menaces et les capacités de défense, mais elle peut également faciliter les cyberattaques et introduire de nouvelles vulnérabilités dans les systèmes d’IA eux-mêmes.
 
-**Éléments de preuve**
+##Éléments de preuve
 
 Le NIST présente un programme consacré à la cybersécurité, à la protection de la vie privée et à l’IA. Il souligne la nécessité d’adapter les méthodes de gestion des risques, de protéger les composants des systèmes d’IA et de renforcer les défenses contre les attaques assistées par l’IA.
 
-**Limites ou biais éventuels**
+##Limites ou biais éventuels
 
 Cette page présente principalement les orientations et les objectifs d’un organisme institutionnel. Elle ne constitue pas une expérimentation permettant de comparer quantitativement les performances de différents modèles d’IA. Elle ne fournit pas non plus une mesure unique de l’efficacité de l’IA dans tous les domaines de la cybersécurité.
 
-**Vérification effectuée**
+##Vérification effectuée
 
 ### fiche 2
-**Titre de la source**
+##Titre de la source
 
 When LLMs meet cybersecurity: a systematic literature review
 
-**Type de source**
+##Type de source
 
 Article scientifique — revue systématique de la littérature
 
-**Auteur ou organisme et date**
+##Auteur ou organisme et date
 
 Jie Zhang, Haoyu Bu, Hui Wen, Yongji Liu, Haiqiang Fei, Rongrong Xi, Lun Li, Yun Yang, Hongsong Zhu et collaborateurs, publié le 5 février 2025 dans la revue *Cybersecurity*, volume 8, article 55.
 
-**Lien de la source**
+##Lien de la source
 
 https://doi.org/10.1186/s42400-025-00361-w
 
-**Idée principale**
+##Idée principale
 
 Cet article analyse les possibilités d’utilisation des grands modèles de langage (LLM) dans la cybersécurité, notamment pour détecter les vulnérabilités, analyser les menaces, détecter les anomalies et assister la correction du code. Il examine également les limites de ces modèles, leur vulnérabilité aux attaques et les pistes de recherche nécessaires à leur amélioration.
 
-**Éléments de preuve**
+##Éléments de preuve
 
 Les auteurs réalisent une revue systématique portant sur plus de 300 travaux, 25 grands modèles de langage et plus de dix catégories d’applications. Ils montrent que les LLM peuvent contribuer à plusieurs tâches de sécurité informatique. L’étude souligne toutefois que certaines recherches reposent sur des études de cas sans méthodologie suffisamment approfondie, ce qui soulève des questions de reproductibilité et de passage à l’échelle. Les vulnérabilités propres aux LLM, notamment les attaques par contournement des protections (*jailbreaking*), constituent également un défi.
 
-**Limites ou biais éventuels**
+##Limites ou biais éventuels
 
 L’article constitue une synthèse de travaux existants et ne démontre pas expérimentalement qu’un modèle particulier est supérieur à tous les autres. Les résultats dépendent des études incluses, des tâches évaluées et des méthodes de comparaison. Le domaine évoluant rapidement, certains résultats peuvent également devenir moins représentatifs avec l’apparition de nouveaux modèles et de nouvelles attaques.
 
-**Vérification effectuée**
+##Vérification effectuée
 
 Article consulté sur le site officiel de la revue *Cybersecurity*, hébergée par Springer Nature. Le titre, les auteurs, la date de publication et les principaux résultats ont été vérifiés dans la publication en accès libre. <Cite refs={["turn946358view1"]}/>
 
 ### fiche 3 
-**Titre de la source**
+##Titre de la source
 
 AI Security Newsletter — June 2026
 
-**Type de source**
+##Type de source
 
 Newsletter / flux RSS — veille technologique spécialisée en sécurité de l’intelligence artificielle
 
-**Auteur ou organisme et date**
+##Auteur ou organisme et date
 
 Awesome AI Security, juin 2026, numéro 13 de la newsletter mensuelle.
 
-**Lien de la source**
+##Lien de la source
 
 https://www.awesomeaisecurity.com/newsletter
 
-**Idée principale**
+##Idée principale
 
 Cette newsletter propose une veille sur les risques émergents liés à l’intelligence artificielle, notamment les attaques par injection de prompt, les abus des agents autonomes et des outils connectés, les vulnérabilités des chaînes d’approvisionnement de l’IA et les nouvelles méthodes de défense.
 
-**Éléments de preuve**
+##Éléments de preuve
 
 L’archive de la newsletter présente des éditions mensuelles regroupant des recherches, des rapports, des vulnérabilités, des outils de défense et des discussions de spécialistes. L’édition de juin 2026 est consacrée notamment à la sécurité des agents d’IA, aux attaques par injection de prompt et aux travaux de recherche récents.
 
-**Limites ou biais éventuels**
+##Limites ou biais éventuels
 
 Une newsletter est une source secondaire de veille et non une publication scientifique évaluée par les pairs. La sélection des informations dépend de sa ligne éditoriale et ne garantit pas une couverture exhaustive de toutes les recherches. Les résultats techniques doivent être vérifiés dans les publications originales ou les rapports cités avant d’être utilisés comme preuves scientifiques.
 
-**Vérification effectuée**
+##Vérification effectuée
 
 Archive consultée sur le site officiel d’Awesome AI Security. Le format mensuel, le numéro 13 et les thèmes annoncés pour juin 2026 ont été vérifiés dans les informations disponibles. Le contenu détaillé de chaque élément de la newsletter doit être consulté séparément pour une vérification scientifique approfondie. <Cite refs={["turn133820search9"]}/>
 
-(the work is mostly by me and the help of ia credits goes to ia and google)
-
 Source consultée sur le site officiel du NIST. Le contenu relatif aux opportunités, aux risques et au programme de cybersécurité et d’IA a été vérifié sur la page institutionnelle. <Cite refs={["turn946358view0"]}/>
+(the work is mostly by me and the help of ia credits goes to ia and google)
